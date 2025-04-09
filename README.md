@@ -4,17 +4,20 @@ Loan Status Prediction Using Machine Learning
 
 Using Models:
 
-Logistic Regression
+* Logistic Regression
 
-SVC
+* SVC
 
-Decision Tree
+* Decision Tree
 
-Random Forest Classifier
+* Random Forest Classifier
 
-Gradient Boosting Classifier
+* Gradient Boosting Classifier
 
-Hypertuning Models:
-## Logistic Regression
-## SVC
-## Random Forest Classifier
+# Hypertuning Models:
+
+* Logistic Regression
+
+* SVC
+
+* Random Forest Classifier
